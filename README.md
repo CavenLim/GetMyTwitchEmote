@@ -18,7 +18,7 @@ How to Use
 
 Download the latest .exe file from the Releases tab.
 
-Run the .exe. You may see a Windows SmartScreen warning – click “More info” → “Run anyway.”
+Run the .exe. You may see a Windows SmartScreen warning -> click “More info” → “Run anyway.”
 
 Enter the Twitch channel name when prompted.
 
