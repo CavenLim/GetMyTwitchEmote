@@ -38,7 +38,7 @@ Only support one channel each run.
 ---
 License
 
-This project is licensed under the MIT License – see the LICENSE
+This project is licensed under the MIT License see the LICENSE
  file for details.
 ---
 Stay Tuned
