@@ -1,5 +1,5 @@
 # Get My Twitch Emote
-🎮 Download Twitch channel subscriber emotes directly to your PC!
+Download Twitch channel subscriber emotes directly to your PC!
 
 This is a simple Windows application that allows you to download all subscriber only Twitch emotes for any channel. Just enter the channel name and get the emotes saved in your Downloads folder.
 No additional programs required.. 
