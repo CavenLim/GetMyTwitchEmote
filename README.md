@@ -35,7 +35,7 @@ Notes:
 
 - No folder or files are created if the channel has no subscriber emotes.
 
-- Only support one channel each run(unlimited runs coming soon).
+- Supports multiple downloads each session(unlimited runs basically).
 
 ---
 License
